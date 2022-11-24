@@ -15,9 +15,10 @@
       <SC.OrbitControls/>
       <SC.AmbientLight color={new THREE.Color('white')}/>
   </SC.Canvas>
+  <!--
   <button on:click={invertAnimation}>
     {animate ? 'stop' : 'start'}
-  </button>
+  </button>-->
 </div>
 
 <style>
